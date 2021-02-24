@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f50d10c5-bd34-4548-b9d2-b208fd110184" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="go-fullstack" />
+  </component>
+  <component name="ProjectId" id="1oestVFh8Cc8hXv25Dq1NQg4t9v" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f50d10c5-bd34-4548-b9d2-b208fd110184" name="Default Changelist" comment="" />
+      <created>1613658604188</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1613658604188</updated>
+      <workItem from="1613658608151" duration="695000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1559" y="77" key="#Project_Structure" timestamp="1613658611086">
+      <screen x="-1920" y="6" width="1536" height="832" />
+    </state>
+    <state x="-1559" y="77" key="#Project_Structure/-1920.6.1536.832/0.0.1600.860@-1920.6.1536.832" timestamp="1613658611086" />
+    <state x="-1371" y="174" key="FileChooserDialogImpl" timestamp="1613659082475">
+      <screen x="-1920" y="6" width="1536" height="832" />
+    </state>
+    <state x="-1371" y="174" key="FileChooserDialogImpl/-1920.6.1536.832/0.0.1600.860@-1920.6.1536.832" timestamp="1613659082475" />
+    <state x="-1489" y="159" key="search.everywhere.popup" timestamp="1613659236379">
+      <screen x="-1920" y="6" width="1536" height="832" />
+    </state>
+    <state x="-1489" y="159" key="search.everywhere.popup/-1920.6.1536.832/0.0.1600.860@-1920.6.1536.832" timestamp="1613659236379" />
+  </component>
+</project>
